@@ -191,4 +191,7 @@ header input {
   .piano-keys .white {
     width: 50px;
   }
+  header h2{
+    font-size: 20px;
+  }
 }
